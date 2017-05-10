@@ -1,7 +1,32 @@
 h1,a,h2{
 	color: red;font-size: 50px;
 }
-body{color: blue;}
+body{
+	background-color: royalblue;
+}
 h4{
 	color: green;
+}
+li strong{
+	color: red;
+}
+#pid a{
+	color: #00755f;
+}
+#divid{
+	color: red;
+}
+.divclass{
+	color: red;
+}
+.pclass a{
+	color: green;
+}
+<style>
+	[title=te]{color: red;}
+</style>
+p{
+	width: 150px;
+	padding: 10px;
+	background-color: #0014ff;
 }

@@ -1,0 +1,12 @@
+body{
+	background-image: url("dsh.png");
+	background-repeat:no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: 1000px 1000px;
+	color: deepskyblue;
+	text-align: center;
+}
+p{
+	text-indent: 5em;
+}
